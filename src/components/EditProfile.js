@@ -65,7 +65,6 @@ class EditProfile extends Component {
             {
                 $("#errorText").text("User without this information doesn't exist");
                 $("#errorText").show();
-                console.log(config.api.invokeUrl)
             }
         }
         catch(error)
