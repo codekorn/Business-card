@@ -63,7 +63,7 @@ class EditProfile extends Component {
             }
             catch(error)
             {
-                $("#errorText").text("User without this information doesn't exist");
+                $("#errorText").text(`${config.api.invokeUrl}/users/${this.state.email}`);
                 $("#errorText").show();
             }
         }
