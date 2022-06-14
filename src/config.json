@@ -7,7 +7,7 @@
     },
     "api":
     {
-        "invokeUrl": "https://4uwnzrnj56.execute-api.us-east-1.amazonaws.com/"
+        "invokeUrl": "https://4uwnzrnj56.execute-api.us-east-1.amazonaws.com"
     },
     "Storage":
     {
