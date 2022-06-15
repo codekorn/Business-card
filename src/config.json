@@ -2,12 +2,12 @@
     "cognito": 
     { 
         "REGION": "us-east-1",
-        "USER_POOL_ID": "us-east-1_jseA6dFlJ",
-        "APP_CLIENT_ID": "6ehmr32bpdre0og45vqmkefm06"
+        "USER_POOL_ID": "us-east-1_6A5F929rS",
+        "APP_CLIENT_ID": "3lb2k828crc5aqe2bbgl88alhp"
     },
     "api":
     {
-        "invokeUrl": "https://4uwnzrnj56.execute-api.us-east-1.amazonaws.com"
+        "invokeUrl": "https://yq21vhepde.execute-api.us-east-1.amazonaws.com/test"
     },
     "Storage":
     {
