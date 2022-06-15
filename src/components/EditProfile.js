@@ -63,7 +63,7 @@ class EditProfile extends Component {
             }
             catch(error)
             {
-                $("#errorText").text(response);
+                $("#errorText").text(response['status']);
                 $("#errorText").show();
             }
         }
