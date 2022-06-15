@@ -63,7 +63,7 @@ class EditProfile extends Component {
             }
             catch(error)
             {
-                $("#errorText").text("User with this information doesn't exist");
+                $("#errorText").text(this.state.email);
                 $("#errorText").show();
             }
         }
